@@ -34,7 +34,7 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Made By Team Swarna"
+        android:text="Made By MSK"
         android:textColor="@color/black"
         android:fontFamily="@font/poppins"
         app:layout_constraintBottom_toBottomOf="parent"
